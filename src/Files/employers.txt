@@ -1,0 +1,7 @@
+1 Arjon Mazeu 18/05/2000 1arjonmazeu 1111 Lufra 1 Softaware
+2 Ermir Tabeu 10/03/1952 2ermirtabeu 2222 Joplo 4 Cheese
+3 Erion Tezga 15/05/1965 3eriontezga 3333 Mireli 2 Milk
+4 Iris Bebaraj 14/11/1975 4irisbebaraj 4444 Mood 1 Furniture
+5 Mickey Mouse 17/05/1990 5mickeymouse 5555 King 3 Fruits
+6 Krenar Shepi 08/05/1988 6krenarshepi 6666 Tije 0 Smartphone
+7 Gledis Musabelliu 20/03/1987 7gledismusabelliu 7777 Musa 0 Toys

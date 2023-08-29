@@ -1,0 +1,17 @@
+1 Bora Shehu 20/05/1990 1borashehu 0 true null 1111
+2 Esmeralda Bimo 25/06/1987 2esmeraldabimo 1 true null 2222
+3 Barbara Berisha 20/03/2000 3barbaraberisha 0 false null null
+4 Alban Beu 10/01/1960 4albanbeu 9 true null 2222
+5 Enisa Trico 20/07/1997 5enisatrico 2 true null 2222
+6 Klajd Hasi 15/02/1989 6klajdhasi 5 false null null
+7 Mirela Bobi 14/06/1991 7mirelabobi 3 true null 2222
+8 Krenar Basha 23/07/1990 8krenarbasha 4 true null 5555
+9 Denada Muka 28/02/1986 9denadamuka 5 false 66666 null
+10 Elif Stromba 03/04/1991 10elifstromba 1 true null 3333
+11 Fisnik Spahiu 03/06/1995 11fisnikspahiu 2 true null 4444
+12 Ross Geller 20/09/1980 12rossgeller 1 false 98888 null
+13 Phoebe Buffay 14/05/2001 13phoebebuffay 2 true null 3333
+14 Joey Tribbiani 25/05/2003 14joeytribbiani 6 true null 5555
+15 Chandler Bing 19/08/1976 15chandlerbing 15 false 88888 null
+16 Flavia Lia 17/05/1959 16flavialia 19 true null 5555
+17 Qazim Rama 20/10/1994 17qazimrama 2 false 11113 null
